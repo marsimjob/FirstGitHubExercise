@@ -11,6 +11,10 @@ namespace FirstGitHubExercise
         static void Main(string[] args)
         {
             Console.WriteLine("This new infomration is important");
+
+            Console.WriteLine("Additional Line of infomration to test branch");
+
+            Console.WriteLine("Alt test");
         }
     }
 }
